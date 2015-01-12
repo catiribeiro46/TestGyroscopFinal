@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gyroscop</string>
+    <string name="action_settings">Settings</string>
+	<string name="Start">Start</string>
+	<string name="About">About</string>
+	<string name="Exit">Exit</string>
+
+
+</resources>
+
